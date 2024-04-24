@@ -1,0 +1,27 @@
+1. Little interest or pleasure in doing things
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Little interest or pleasure in doing things: 2
+
+2. Feeling down, depressed, or hopeless
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Feeling down, depressed, or hopeless: 3
+
+3. Trouble falling or staying asleep, or sleeping too much
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Trouble falling or staying asleep, or sleeping too much: 2
+
+4. Feeling tired or having little energy
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Feeling tired or having little energy: 2
+
+5. Poor appetite or overeating
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Poor appetite or overeating: 2
+
+6. Feeling bad about themself or that they are a failure or have let themself or their family down
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Feeling bad about themself or that they are a failure or have let themself or their family down: not enough data to respond.
+
+7. Trouble concentrating on things, such as reading the newspaper or watching television
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Trouble concentrating on things, such as reading the newspaper or watching television: 2
+
+8. Moving or speaking so slowly that other people could have noticed. Or the opposite being so figety or restless that they have been moving around a lot more than usual
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Moving or speaking so slowly that other people could have noticed. Or the opposite being so figety or restless that they have been moving around a lot more than usual: 0
+
+9. Thoughts that they would be better off dead, or of hurting themself
+On scale of 0 to 3, over the last 2 weeks, rate how often has this person been bothered by Thoughts that they would be better off dead, or of hurting themself: 3
+

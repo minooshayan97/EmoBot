@@ -1,0 +1,51 @@
+EmoBot>>>> Hello! How are you feeling today?
+
+User>>i'm not very good
+
+*** Current Topic = 9.9. Thoughts that they would be better off dead, or of hurting themself***
+
+We are talking about 9. Thoughts that they would be better off dead, or of hurting themself. Use contexts to provide relevant support to the students' problem. Respond empathetically.
+    Contexts:you don’t live up to your rules. (“I should never have interviewed for that job. I’m an idiot for thinking I could get it.”) Labeling. Classifying yourself based on mistakes had a good time on our date, but I think she was just being nice.”) Jumping to conclusions. Making negative interpretations without actual evidence. You act like a mind reader abilities are sharper. Engage in healthy joyful activities! Try to enjoy the small things like listening to a good song, reaching out to a friend, dancing in your own space,
+    Query: i'm not very good
+
+*********
+should_talk :
+['1', '2', '3', '4', '5', '6', '7', '8', '9']
+chain :
+['-1', '0', '9']
+*********
+EmoBot>>>> I'm sorry to hear that you're feeling this way. It's important to remember that thoughts like these can be a sign that you may be struggling with your mental health. It's okay to not feel good right now, but please know that you are not alone in this. Have you been feeling like this for a while, or is this something new for you in the past two weeks?
+
+User>>it's been like this for a long time. i'm so tired during days. often feel gloomy.
+
+*** Current Topic = 9.9. Thoughts that they would be better off dead, or of hurting themself***
+--- topic 9 removed
++++ next:1
+
+We were talking about 9. Thoughts that they would be better off dead, or of hurting themself. Use contexts to provide relevant support to the students' problem in 1-2 sentences. Respond empathetically shortly. Conclude this topic and ask the next question in one final sentence: how often have they been bothered by the following over the past 2 weeks 1. Little interest or pleasure in doing things?
+    Contexts:have symptoms most of the day, nearly every day, for at least 2 weeks. One of the symptoms must be a depressed mood or a loss of interest or pleasure to a form of depression known as seasonal affective disorder (SAD). SAD can make you feel like a completely different person to who you are in the summer: hopeless, sad, to carry on cooking and eating regular meals. Have a routine When people feel down, they can get into poor sleep patterns, staying up late and sleeping during the day.
+    Query: it's been like this for a long time. i'm so tired during days. often feel gloomy.
+
+*********
+should_talk :
+['1', '2', '3', '4', '5', '6', '7', '8']
+chain :
+['-1', '0', '9', '9']
+*********
+EmoBot>>>> I'm sorry to hear that you've been feeling this way for a long time. It's important to take care of yourself, especially when you're feeling tired and gloomy. Over the past two weeks, how often have you been bothered by having little interest or pleasure in doing things?
+
+User>>exit
+
+*** Current Topic = 9.9. Thoughts that they would be better off dead, or of hurting themself***
++++ next:1
+
+We were talking about 9. Thoughts that they would be better off dead, or of hurting themself. Use contexts to provide relevant support to the students' problem in 1-2 sentences. Respond empathetically shortly. Conclude this topic and ask the next question in one final sentence: how often have they been bothered by the following over the past 2 weeks 1. Little interest or pleasure in doing things?
+    Contexts:abilities are sharper. Engage in healthy joyful activities! Try to enjoy the small things like listening to a good song, reaching out to a friend, dancing in your own space, a musical ensemble or band. You can also reap some of the same rewards simply by listening. 11. Spend time in nature Time in nature can have a powerful influence all together. This can promote a sense of accomplishment and self-efficacy. Avoid the big decisions! Contemplating or acting on major life decisions should be avoided until your cognitive and decision-making
+    Query: exit
+
+*********
+should_talk :
+['1', '2', '3', '4', '5', '6', '7', '8']
+chain :
+['-1', '0', '9', '9', '9']
+*********
